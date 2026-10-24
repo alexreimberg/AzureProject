@@ -1,0 +1,15 @@
+{
+	"name": "df-spotifyazurealexproj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7994fbc9-fd83-46cf-b2ef-bc23505be636",
+		"tenantId": "c49e1939-4b53-4738-bb64-41fb2990e41c"
+	}
+}
